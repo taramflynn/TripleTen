@@ -1,7 +1,9 @@
 # TripleTen
-Projects throughout my TripleTen Course
-Sprint 1
-Sprint 2
-Sprint 3
-Sprint 4 - Tableau - SuperStore Analys - Description:
+Projects throughout my TripleTen Certification <br>
+Sprint 1 <br>
+Sprint 2 <br>
+Sprint 3 <br>
+Sprint 4 - Tableau | SuperStore Analys | Description:
+
+
   
